@@ -4,7 +4,7 @@
             <div class="d-flex align-center pa-4">
                 <v-avatar color="primary" size="40">A</v-avatar>
                 <div class="ml-3">
-                    <div class="font-weight-bold">Admin System</div>
+                    <div class="font-weight-bold">MD Admin System</div>
                     <div class="text-caption">Freelance Dev</div>
                 </div>
             </div>
